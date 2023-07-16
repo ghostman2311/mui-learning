@@ -1,5 +1,5 @@
 import React from "react";
-import { AppBar, Toolbar, useScrollTrigger } from "@material-ui/core";
+import { AppBar, Toolbar, useScrollTrigger } from "@mui/material";
 
 function ElevationScroll(props) {
   const { children } = props;
